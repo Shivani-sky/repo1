@@ -1,0 +1,5 @@
+India is great. 
+Modify the package.json to install the private repo dependencies
+In the project that cloned locally, find the private repo dependencies in its package.json
+and do the same modification to their repo address as in step 3 
+(I wouldn’t commit these modifications since it breaks everything for other people who are also working on this project):
